@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "217. Contains Duplicate", "217. Contains Duplicate\217. Contains Duplicate.pyproj", "{FD6854C9-79EC-4202-B805-0EDDF6529E5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6854C9-79EC-4202-B805-0EDDF6529E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD6854C9-79EC-4202-B805-0EDDF6529E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C93C887-CF16-4D3B-B8EF-D166C97EF3F3}
+	EndGlobalSection
+EndGlobal
